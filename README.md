@@ -1,1 +1,1 @@
-# r-calc
+# SIMPLE CALCULATOR
